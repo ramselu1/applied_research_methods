@@ -1,0 +1,301 @@
+﻿web_scraper_order,web_scraper_start_url,rooms_raw,address_raw,price_raw,url,text_raw
+"1793947591-1","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Möblierte Wohnung8003 Zürich","8003 Zürich","Mieten
+3’675 CHFMöbliert","https://flatfox.ch/de/wohnung/auf-anfrage-8003-zurich/86519916/","Mieten
+3’675 CHFMöbliert3 ½ Zimmer-Möblierte Wohnung8003 Zürich"
+"1793947591-2","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","75m² Büro8038 Zürich","8038 Zürich","Mieten
+2’550 CHF","https://flatfox.ch/de/wohnung/auf-anfrage-8038-zurich/86519905/","Mieten
+2’550 CHF75m² Büro8038 Zürich"
+"1793947591-3","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8952 schlieren","8952 schlieren","Mieten
+1’000 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/grabenstrasse-6-8952-schlieren/86519832/","Mieten
+1’000 CHFBefristetMöbliertWG Zimmer8952 schlieren"
+"1793947591-4","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Moto Hallenplatz8802 Kilchberg","8802 Kilchberg","Mieten
+40 CHF","https://flatfox.ch/de/wohnung/larchenweg-5-8802-kilchberg/85347243/","Mieten
+40 CHFMoto Hallenplatz8802 Kilchberg"
+"1793947591-5","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 Zimmer-Wohnung8006 Zürich","8006 Zürich","Mieten
+4’125 CHF","https://flatfox.ch/de/wohnung/walchestr-23-8006-zurich/86299921/","Mieten
+4’125 CHF4 Zimmer-Wohnung8006 Zürich"
+"1793947591-6","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Wohnung8001 Zürich","8001 Zürich","Mieten
+3’450 CHF","https://flatfox.ch/de/wohnung/haringstrasse-16-8001-zurich/86519819/","Mieten
+3’450 CHF3 ½ Zimmer-Wohnung8001 Zürich"
+"1793947591-7","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8001 Zürich","8001 Zürich","Mieten
+2’200 CHF","https://flatfox.ch/de/wohnung/haringstrasse-16-8001-zurich/86519818/","Mieten
+2’200 CHF2 ½ Zimmer-Wohnung8001 Zürich"
+"1793947591-8","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 Zimmer-Wohnung8032 Zürich","8032 Zürich","Mieten
+3’265 CHF","https://flatfox.ch/de/wohnung/englischviertelstrasse-20-8032-zurich/86507123/","Mieten
+3’265 CHF3 Zimmer-Wohnung8032 Zürich"
+"1793947591-9","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8008 Zürich","8008 Zürich","Mieten
+3’350 CHF","https://flatfox.ch/de/wohnung/mainaustrasse-34-8008-zurich/86510324/","Mieten
+3’350 CHF2 ½ Zimmer-Wohnung8008 Zürich"
+"1793947591-10","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 Zimmer-Wohnung8051 Zürich","8051 Zürich","Mieten
+1’850 CHF","https://flatfox.ch/de/wohnung/luchswiesenstrasse-220-8051-zurich/86519755/","Mieten
+1’850 CHF2 Zimmer-Wohnung8051 Zürich"
+"1793947591-11","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8050 Zürich","8050 Zürich","Mieten
+1’950 CHFBefristet","https://flatfox.ch/de/wohnung/8050-zurich/86519634/","PriorityMieten
+1’950 CHFBefristet2 ½ Zimmer-Wohnung8050 Zürich"
+"1793947591-12","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8002 Zürich","8002 Zürich","Mieten
+1’340 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8002-zurich/86519628/","Mieten
+1’340 CHFBefristetMöbliertWG Zimmer8002 Zürich"
+"1793947591-13","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","5 ½ Zimmer-Wohnung8049 Zürich","8049 Zürich","Mieten
+2’790 CHF","https://flatfox.ch/de/wohnung/8049-zurich/86519611/","PriorityMieten
+2’790 CHF5 ½ Zimmer-Wohnung8049 Zürich"
+"1793947591-14","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 ½ Zimmer-Wohnung8044 Gockhausen","8044 Gockhausen","Mieten
+3’420 CHF","https://flatfox.ch/de/wohnung/im-langwil-6-8044-gockhausen/86519603/","PriorityMieten
+3’420 CHF4 ½ Zimmer-Wohnung8044 Gockhausen"
+"1793947591-15","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8048 Zürich","8048 Zürich","Mieten
+1’140 CHFMöbliert","https://flatfox.ch/de/wohnung/8048-zurich/86519579/","Mieten
+1’140 CHFMöbliertWG Zimmer8048 Zürich"
+"1793947591-16","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8048 Zurich","8048 Zurich","Mieten
+1’300 CHFMöbliert","https://flatfox.ch/de/wohnung/8048-zurich/86519509/","Mieten
+1’300 CHFMöbliertWG Zimmer8048 Zurich"
+"1793947591-17","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8045 zurich","8045 zurich","Mieten
+2’653 CHF","https://flatfox.ch/de/wohnung/8045-zurich/86519467/","PriorityMieten
+2’653 CHF2 ½ Zimmer-Wohnung8045 zurich"
+"1793947591-18","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Wohnung8302 Kloten","8302 Kloten","Mieten
+2’870 CHF","https://flatfox.ch/de/wohnung/wallisellerstrasse-8-8302-kloten/86519384/","PriorityMieten
+2’870 CHF3 ½ Zimmer-Wohnung8302 Kloten"
+"1793947591-19","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 Zimmer-Wohnung8004 Zürich","8004 Zürich","Mieten
+1’350 CHF","https://flatfox.ch/de/wohnung/brauerstrasse-31-8004-zurich/86519368/","PriorityMieten
+1’350 CHF1 Zimmer-Wohnung8004 Zürich"
+"1793947591-20","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8037 Zürich","8037 Zürich","Mieten
+1’449 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8037-zurich/86519367/","Mieten
+1’449 CHFBefristetMöbliertWG Zimmer8037 Zürich"
+"1793947591-21","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 Zimmer-Wohnung8006 Zürich","8006 Zürich","Mieten
+1’184 CHF","https://flatfox.ch/de/wohnung/winterthurerstr-76-8006-zurich/85116035/","Mieten
+1’184 CHF1 Zimmer-Wohnung8006 Zürich"
+"1793947591-22","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 ½ Zimmer-Wohnung8006 Zürich","8006 Zürich","Mieten
+1’335 CHF","https://flatfox.ch/de/wohnung/winterthurerstr-76-8006-zurich/85111512/","Mieten
+1’335 CHF1 ½ Zimmer-Wohnung8006 Zürich"
+"1793947591-23","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8002 Zürich","8002 Zürich","Mieten
+1’050 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/beethovenstrasse-41-8002-zurich/86519339/","Mieten
+1’050 CHFBefristetMöbliertWG Zimmer8002 Zürich"
+"1793947591-24","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 ½ Zimmer-Wohnung8142 Uitikon Waldegg","8142 Uitikon Waldegg","Mieten
+1’870 CHF","https://flatfox.ch/de/wohnung/leuengasse-22-8142-uitikon-waldegg/86519207/","Mieten
+1’870 CHF1 ½ Zimmer-Wohnung8142 Uitikon Waldegg"
+"1793947591-25","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Tiefgarage8906 Bonstetten","8906 Bonstetten","Mieten
+160 CHF","https://flatfox.ch/de/wohnung/eh-stallikerstrasse-18-8906-bonstetten/86519184/","Mieten
+160 CHFTiefgarage8906 Bonstetten"
+"1793947591-26","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Wohnung8134 Adliswil","8134 Adliswil","Mieten
+2’480 CHF","https://flatfox.ch/de/wohnung/poststr-13-8134-adliswil/86519168/","Mieten
+2’480 CHF3 ½ Zimmer-Wohnung8134 Adliswil"
+"1793947591-27","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 ½ Zimmer-Wohnung8102 Oberengstringen","8102 Oberengstringen","Mieten
+2’226 CHF","https://flatfox.ch/de/wohnung/glarnischstrasse-2-8102-oberengstringen/86306069/","Mieten
+2’226 CHF4 ½ Zimmer-Wohnung8102 Oberengstringen"
+"1793947591-28","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8003 Zürich","8003 Zürich","Mieten
+1’250 CHF","https://flatfox.ch/de/wohnung/zelgstrasse-5-8003-zurich/86519043/","Mieten
+1’250 CHFWG Zimmer8003 Zürich"
+"1793947591-29","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Tiefgarage8032 Zürich","8032 Zürich","Mieten
+230 CHF","https://flatfox.ch/de/wohnung/witikonerstr-68d-8032-zurich/86519040/","Mieten
+230 CHFTiefgarage8032 Zürich"
+"1793947591-30","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","105m² Büro8008 Zürich","8008 Zürich","Mieten
+5’620 CHF","https://flatfox.ch/de/wohnung/dufourstrasse-22-8008-zurich/86518989/","Mieten
+5’620 CHF105m² Büro8008 Zürich"
+"1793947591-31","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Möblierte Wohnung8703 Erlenbach ZH","8703 Erlenbach ZH","Mieten
+3’600 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8703-erlenbach-zh/86518967/","Mieten
+3’600 CHFBefristetMöbliert2 ½ Zimmer-Möblierte Wohnung8703 Erlenbach ZH"
+"1793947591-32","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 Zimmer-Möblierte Wohnung8004 Zurich","8004 Zurich","Mieten
+2’490 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8004-zurich/86518966/","Mieten
+2’490 CHFBefristetMöbliert2 Zimmer-Möblierte Wohnung8004 Zurich"
+"1793947591-33","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8051 Schwamedingen","8051 Schwamedingen","Mieten
+710 CHFBefristet","https://flatfox.ch/de/wohnung/8051-schwamedingen/86518965/","Mieten
+710 CHFBefristetWG Zimmer8051 Schwamedingen"
+"1793947591-34","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","17-17m² Büro8048 Zürich","8048 Zürich","Mieten
+420 CHFBefristet","https://flatfox.ch/de/wohnung/altstetterstrasse-124-8048-zurich/86518937/","Mieten
+420 CHFBefristet17-17m² Büro8048 Zürich"
+"1793947591-35","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 Zimmer-Wohnung8052 Zürich","8052 Zürich","Mieten
+2’069 CHF","https://flatfox.ch/de/wohnung/glatttalstrasse-60-8052-zurich/86105673/","Mieten
+2’069 CHF4 Zimmer-Wohnung8052 Zürich"
+"1793947591-36","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Maisonette8142 Uitikon","8142 Uitikon","Mieten
+1’990 CHF","https://flatfox.ch/de/wohnung/schlierenstrasse-3-8142-uitikon/86404191/","Mieten
+1’990 CHF2 ½ Zimmer-Maisonette8142 Uitikon"
+"1793947591-37","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8006 Zürich","8006 Zürich","Mieten
+2’690 CHF","https://flatfox.ch/de/wohnung/sumatrastrasse-39-8006-zurich/86115724/","Mieten
+2’690 CHF2 ½ Zimmer-Wohnung8006 Zürich"
+"1793947591-38","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 ½ Zimmer-Wohnung8046 Zürich","8046 Zürich","Mieten
+2’990 CHF","https://flatfox.ch/de/wohnung/schwandenholzstr-268-8046-zurich/86518928/","Mieten
+2’990 CHF4 ½ Zimmer-Wohnung8046 Zürich"
+"1793947591-39","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 Zimmer-Wohnung8004 Zürich","8004 Zürich","Mieten
+1’690 CHF","https://flatfox.ch/de/wohnung/brauerstrasse-27-8004-zurich/86468749/","Mieten
+1’690 CHF1 Zimmer-Wohnung8004 Zürich"
+"1793947591-40","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 ½ Zimmer-Wohnung8046 Zürich","8046 Zürich","Mieten
+3’040 CHF","https://flatfox.ch/de/wohnung/schwandenholzstr-264-8046-zurich/86518924/","Mieten
+3’040 CHF4 ½ Zimmer-Wohnung8046 Zürich"
+"1793947591-41","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8004 Zürich","8004 Zürich","Mieten
+850 CHF","https://flatfox.ch/de/wohnung/kanzleistrasse-200-8004-zurich/86518858/","Mieten
+850 CHFWG Zimmer8004 Zürich"
+"1793947591-42","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 ½ Zimmer-Wohnung8041 Zurich","8041 Zurich","Mieten
+2’100 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/sihlweidstrasse-16-8041-zurich/86518781/","PriorityMieten
+2’100 CHFBefristetMöbliert4 ½ Zimmer-Wohnung8041 Zurich"
+"1793947591-43","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8047 Zürich","8047 Zürich","Mieten
+1’090 CHF","https://flatfox.ch/de/wohnung/albisriederstrasse-268-8047-zurich/86518755/","Mieten
+1’090 CHFWG Zimmer8047 Zürich"
+"1793947591-44","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8302 Kloten","8302 Kloten","Mieten
+650 CHFMöbliert","https://flatfox.ch/de/wohnung/bucheggweg-6-8302-kloten/86518719/","Mieten
+650 CHFMöbliertWG Zimmer8302 Kloten"
+"1793947591-45","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8005 Zürich","8005 Zürich","Mieten
+1’780 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8005-zurich/86518708/","Mieten
+1’780 CHFBefristetMöbliertWG Zimmer8005 Zürich"
+"1793947591-46","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","681m² Büro8048 Zürich","8048 Zürich","Mieten
+260 CHF / m²","https://flatfox.ch/de/wohnung/badenerstrasse-694-8048-zurich/86518672/","Mieten
+260 CHF / m²681m² Büro8048 Zürich"
+"1793947591-47","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","136m² Büro8048 Zürich","8048 Zürich","Mieten
+280 CHF / m²","https://flatfox.ch/de/wohnung/badenerstrasse-694-8048-zurich/86518671/","Mieten
+280 CHF / m²136m² Büro8048 Zürich"
+"1793947591-48","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8302 Kloten","8302 Kloten","Mieten
+950 CHFMöbliert","https://flatfox.ch/de/wohnung/bucheggweg-6-8302-kloten/86518658/","Mieten
+950 CHFMöbliertWG Zimmer8302 Kloten"
+"1793947591-49","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 Zimmer-Wohnung8004 Zürich","8004 Zürich","Mieten
+2’150 CHF","https://flatfox.ch/de/wohnung/zypressenstrasse-82-8004-zurich/86518657/","Mieten
+2’150 CHF2 Zimmer-Wohnung8004 Zürich"
+"1793947591-50","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 Zimmer-Wohnung8003 Zürich","8003 Zürich","Mieten
+2’400 CHF","https://flatfox.ch/de/wohnung/saumstrasse-53-8003-zurich/86518647/","Mieten
+2’400 CHF2 Zimmer-Wohnung8003 Zürich"
+"1793947591-51","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","310m² Gewerbe8303 Bassersdorf","8303 Bassersdorf","Mieten
+4’950 CHF","https://flatfox.ch/de/wohnung/grindelstrasse-19-8303-bassersdorf/86518516/","Mieten
+4’950 CHF310m² Gewerbe8303 Bassersdorf"
+"1793947591-52","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 Zimmer-Wohnung8048 Zürich","8048 Zürich","Mieten
+2’300 CHF","https://flatfox.ch/de/wohnung/freihofstrasse-38-8048-zurich/86518593/","Mieten
+2’300 CHF3 Zimmer-Wohnung8048 Zürich"
+"1793947591-53","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 Zimmer-Dachwohnung8038 Zürich","8038 Zürich","Mieten
+2’190 CHF","https://flatfox.ch/de/wohnung/heinrich-federer-strasse-5-8038-zurich/86518538/","Mieten
+2’190 CHF2 Zimmer-Dachwohnung8038 Zürich"
+"1793947591-54","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 ½ Zimmer-Wohnung8305 Dietlikon","8305 Dietlikon","Mieten
+1’308 CHF","https://flatfox.ch/de/wohnung/brunnenwiesenstrasse-8-8305-dietlikon/86514484/","Mieten
+1’308 CHF1 ½ Zimmer-Wohnung8305 Dietlikon"
+"1793947591-55","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","165m² Gewerbe8008 Zürich","8008 Zürich","Mieten
+Auf Anfrage","https://flatfox.ch/de/wohnung/forchstrasse-291-8008-zurich/86518419/","Mieten
+Auf Anfrage165m² Gewerbe8008 Zürich"
+"1793947591-56","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 ½ Zimmer-Attikawohnung8048 Zürich","8048 Zürich","Mieten
+2’700 CHF","https://flatfox.ch/de/wohnung/micafilstrasse-14-8048-zurich/86453323/","Mieten
+2’700 CHF4 ½ Zimmer-Attikawohnung8048 Zürich"
+"1793947591-57","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1500m² Büro8050 Zürich","8050 Zürich","Mieten
+290 CHF / m²","https://flatfox.ch/de/wohnung/hagenholzstrasse-60-8050-zurich/86518288/","Mieten
+290 CHF / m²1500m² Büro8050 Zürich"
+"1793947591-58","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 Zimmer-Möblierte Wohnung8053 Zurich","8053 Zurich","Mieten
+4’920 CHFMöbliert","https://flatfox.ch/de/wohnung/8053-zurich/86518259/","Mieten
+4’920 CHFMöbliert4 Zimmer-Möblierte Wohnung8053 Zurich"
+"1793947591-59","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","6 ½ Zimmer-Möblierte Wohnung8003 Zurich","8003 Zurich","Mieten
+5’850 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8003-zurich/86518258/","Mieten
+5’850 CHFBefristetMöbliert6 ½ Zimmer-Möblierte Wohnung8003 Zurich"
+"1793947591-60","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Wohnung8046 Zürich","8046 Zürich","Mieten
+1’930 CHF","https://flatfox.ch/de/wohnung/wehntalerstrasse-618-8046-zurich/86505887/","Mieten
+1’930 CHF3 ½ Zimmer-Wohnung8046 Zürich"
+"1793947591-61","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 Zimmer-Wohnung8052 Zürich","8052 Zürich","Mieten
+1’790 CHF","https://flatfox.ch/de/wohnung/rumlangstrasse-86-8052-zurich/86506726/","Mieten
+1’790 CHF4 Zimmer-Wohnung8052 Zürich"
+"1793947591-62","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 Zimmer-Wohnung8134 Adliswil","8134 Adliswil","Mieten
+2’140 CHF","https://flatfox.ch/de/wohnung/rutistr-28-8134-adliswil/86517258/","Mieten
+2’140 CHF3 Zimmer-Wohnung8134 Adliswil"
+"1793947591-63","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Hobbyraum8048 Zürich","8048 Zürich","Mieten
+90 CHF","https://flatfox.ch/de/wohnung/dennlerstr-20-8048-zurich/86445711/","Mieten
+90 CHFHobbyraum8048 Zürich"
+"1793947591-64","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Einzelgarage8052 Zürich","8052 Zürich","Mieten
+125 CHF","https://flatfox.ch/de/wohnung/seebacherstrasse-1820-parkplatze-8052-zurich/86517574/","Mieten
+125 CHFEinzelgarage8052 Zürich"
+"1793947591-65","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Wohnung8047 Zürich","8047 Zürich","Mieten
+2’371 CHF","https://flatfox.ch/de/wohnung/in-der-wasseri-37-8047-zurich/86518148/","PriorityMieten
+2’371 CHF3 ½ Zimmer-Wohnung8047 Zürich"
+"1793947591-66","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8047 Zürich","8047 Zürich","Mieten
+600 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/langgrutstrasse-105-8047-zurich/86518084/","Mieten
+600 CHFBefristetMöbliertWG Zimmer8047 Zürich"
+"1793947591-67","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8050 Zürich","8050 Zürich","Mieten
+1’380 CHFMöbliert","https://flatfox.ch/de/wohnung/apfelbaumstrasse-28-8050-zurich/86518081/","Mieten
+1’380 CHFMöbliertWG Zimmer8050 Zürich"
+"1793947591-68","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8057 Zürich","8057 Zürich","Mieten
+1’490 CHFMöbliert","https://flatfox.ch/de/wohnung/8057-zurich/86518065/","Mieten
+1’490 CHFMöbliertWG Zimmer8057 Zürich"
+"1793947591-69","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 Zimmer-Wohnung8006 Zürich","8006 Zürich","Mieten
+3’360 CHF","https://flatfox.ch/de/wohnung/kornhausstr-36-8006-zurich/86518010/","Mieten
+3’360 CHF3 Zimmer-Wohnung8006 Zürich"
+"1793947591-70","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 Zimmer-Wohnung8700 Küsnacht ZH","8700 Küsnacht ZH","Mieten
+1’742 CHF","https://flatfox.ch/de/wohnung/fahnlibrunnenstr-8-8700-kusnacht-zh/86456077/","Mieten
+1’742 CHF2 Zimmer-Wohnung8700 Küsnacht ZH"
+"1793947591-71","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8045 Zürich","8045 Zürich","Kaufen
+2’900 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/wiedingstrasse-87a-8045-zurich/86517989/","Kaufen
+2’900 CHFBefristetMöbliert2 ½ Zimmer-Wohnung8045 Zürich"
+"1793947591-72","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1149m² Büro8055 Zürich","8055 Zürich","Mieten
+250 CHF / m²","https://flatfox.ch/de/wohnung/friesenbergstrasse-75-8055-zurich/86517934/","Mieten
+250 CHF / m²1149m² Büro8055 Zürich"
+"1793947591-73","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Wohnung8037 Zürich","8037 Zürich","Mieten
+3’600 CHF","https://flatfox.ch/de/wohnung/honggerstrasse-59-8037-zurich/86517881/","Mieten
+3’600 CHFWohnung8037 Zürich"
+"1793947591-74","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8134 Adliswil","8134 Adliswil","Mieten
+900 CHFMöbliert","https://flatfox.ch/de/wohnung/8134-adliswil/86517827/","Mieten
+900 CHFMöbliertWG Zimmer8134 Adliswil"
+"1793947591-75","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 ½ Zimmer-Wohnung8046 Zürich","8046 Zürich","Mieten
+1’990 CHF","https://flatfox.ch/de/wohnung/binzmuhlenstrasse-223-8046-zurich/86517816/","PriorityMieten
+1’990 CHF1 ½ Zimmer-Wohnung8046 Zürich"
+"1793947591-76","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Gewerbe8005 Zürich","8005 Zürich","Mieten
+Auf Anfrage","https://flatfox.ch/de/wohnung/heinrichstrasse-262-8005-zurich/86447854/","Mieten
+Auf AnfrageGewerbe8005 Zürich"
+"1793947591-77","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 Zimmer-Wohnung8005 Zürich","8005 Zürich","Mieten
+2’200 CHFMöbliert","https://flatfox.ch/de/wohnung/8005-zurich/86517678/","PriorityMieten
+2’200 CHFMöbliert1 Zimmer-Wohnung8005 Zürich"
+"1793947591-78","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8057 Zürich","8057 Zürich","Mieten
+1’300 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8057-zurich/86517627/","Mieten
+1’300 CHFBefristetMöbliertWG Zimmer8057 Zürich"
+"1793947591-79","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8041 Zürich","8041 Zürich","Mieten
+1’578 CHF","https://flatfox.ch/de/wohnung/maneggpromenade-80-8041-zurich/86517204/","Mieten
+1’578 CHF2 ½ Zimmer-Wohnung8041 Zürich"
+"1793947591-80","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Parkplatz8008 Zürich","8008 Zürich","Mieten
+180 CHFBefristet","https://flatfox.ch/de/wohnung/feldeggstrasse-82-8008-zurich/86517401/","Mieten
+180 CHFBefristetParkplatz8008 Zürich"
+"1793947591-81","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 Zimmer-Studio8002 Zürich","8002 Zürich","Mieten
+1’160 CHF","https://flatfox.ch/de/wohnung/waffenplatzstrasse-4-8002-zurich/86507765/","Mieten
+1’160 CHF1 Zimmer-Studio8002 Zürich"
+"1793947591-82","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Maisonette8006 Zürich","8006 Zürich","Mieten
+5’950 CHF","https://flatfox.ch/de/wohnung/8006-zurich/86517213/","Mieten
+5’950 CHF3 ½ Zimmer-Maisonette8006 Zürich"
+"1793947591-83","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Parkplatz8004 Zürich","8004 Zürich","Mieten
+220 CHF","https://flatfox.ch/de/wohnung/epap-militarstr-105-8004-zurich/86517192/","Mieten
+220 CHFParkplatz8004 Zürich"
+"1793947591-84","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Maisonette8105 Regensdorf","8105 Regensdorf","Mieten
+2’270 CHF","https://flatfox.ch/de/wohnung/wehntalerstrasse-200-8105-regensdorf/86400562/","Mieten
+2’270 CHF2 ½ Zimmer-Maisonette8105 Regensdorf"
+"1793947591-85","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Wohnung8057 Zürich","8057 Zürich","Mieten
+2’544 CHF","https://flatfox.ch/de/wohnung/hofwiesenstrasse-116-8057-zurich/86517095/","Mieten
+2’544 CHF3 ½ Zimmer-Wohnung8057 Zürich"
+"1793947591-86","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 ½ Zimmer-Wohnung8142 Uitikon Waldegg","8142 Uitikon Waldegg","Mieten
+2’090 CHF","https://flatfox.ch/de/wohnung/leuengasse-21-8142-uitikon-waldegg/86516996/","Mieten
+2’090 CHF1 ½ Zimmer-Wohnung8142 Uitikon Waldegg"
+"1793947591-87","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","4 ½ Zimmer-Wohnung8302 Kloten","8302 Kloten","Mieten
+2’300 CHF","https://flatfox.ch/de/wohnung/hohstrasse-6-8302-kloten/86516924/","PriorityMieten
+2’300 CHF4 ½ Zimmer-Wohnung8302 Kloten"
+"1793947591-88","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8004 zürich","8004 zürich","Mieten
+1’300 CHFBefristet","https://flatfox.ch/de/wohnung/schoneggstrasse-15-8004-zurich/86516912/","Mieten
+1’300 CHFBefristetWG Zimmer8004 zürich"
+"1793947591-89","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","80m² Ladenfläche8153 Rümlang","8153 Rümlang","Mieten
+540 CHF","https://flatfox.ch/de/wohnung/auf-anfrage-8153-rumlang/86516728/","Mieten
+540 CHF80m² Ladenfläche8153 Rümlang"
+"1793947591-90","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","Tiefgarage8055 Zürich","8055 Zürich","Mieten
+180 CHF","https://flatfox.ch/de/wohnung/birmensdorferstr-511-8055-zurich/86514746/","Mieten
+180 CHFTiefgarage8055 Zürich"
+"1793947591-91","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8304 Wallisellen","8304 Wallisellen","Mieten
+1’800 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/melchrutistrasse-19-8304-wallisellen/86516544/","PriorityMieten
+1’800 CHFBefristetMöbliert2 ½ Zimmer-Wohnung8304 Wallisellen"
+"1793947591-92","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8050 Zürich","8050 Zürich","Mieten
+750 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/arminstrasse-8050-zurich/86516542/","Mieten
+750 CHFBefristetMöbliertWG Zimmer8050 Zürich"
+"1793947591-93","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8050 Zurigo","8050 Zurigo","Mieten
+1’512 CHFMöbliert","https://flatfox.ch/de/wohnung/neunbrunnenstrasse-52-8050-zurigo/86516307/","Mieten
+1’512 CHFMöbliertWG Zimmer8050 Zurigo"
+"1793947591-94","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","3 ½ Zimmer-Wohnung8702 Zollikon","8702 Zollikon","Mieten
+2’702 CHF","https://flatfox.ch/de/wohnung/8702-zollikon/86516271/","PriorityMieten
+2’702 CHF3 ½ Zimmer-Wohnung8702 Zollikon"
+"1793947591-95","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8302 Kloten","8302 Kloten","Mieten
+1’090 CHFMöbliert","https://flatfox.ch/de/wohnung/dorfstrasse-76-8302-kloten/86516261/","Mieten
+1’090 CHFMöbliertWG Zimmer8302 Kloten"
+"1793947591-96","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","1 ½ Zimmer-Wohnung8057 Zürich","8057 Zürich","Mieten
+1’990 CHF","https://flatfox.ch/de/wohnung/winterthurerstrasse-338-8057-zurich/86516221/","Mieten
+1’990 CHF1 ½ Zimmer-Wohnung8057 Zürich"
+"1793947591-97","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8600 Dübendorf","8600 Dübendorf","Mieten
+1’400 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8600-dubendorf/86516218/","Mieten
+1’400 CHFBefristetMöbliertWG Zimmer8600 Dübendorf"
+"1793947591-98","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","WG Zimmer8032 Zürich","8032 Zürich","Mieten
+1’635 CHFMöbliert","https://flatfox.ch/de/wohnung/8032-zurich/86516167/","Mieten
+1’635 CHFMöbliertWG Zimmer8032 Zürich"
+"1793947591-99","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 Zimmer-Wohnung8152 Opfikon","8152 Opfikon","Mieten
+1’200 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/wallisellerstrasse-149-8152-opfikon/86516165/","PriorityMieten
+1’200 CHFBefristetMöbliert2 Zimmer-Wohnung8152 Opfikon"
+"1793947591-100","https://flatfox.ch/de/search/?east=8.625466&north=47.434662&place_name=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Z%C3%BCrich%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.320203&take=100&west=8.448006","2 ½ Zimmer-Wohnung8008 Zürich","8008 Zürich","Mieten
+2’200 CHF","https://flatfox.ch/de/wohnung/drehergasse-2-8008-zurich/86516153/","PriorityMieten
+2’200 CHF2 ½ Zimmer-Wohnung8008 Zürich"
