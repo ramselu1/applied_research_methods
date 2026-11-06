@@ -1,0 +1,301 @@
+﻿web_scraper_order,web_scraper_start_url,rooms_raw,address_raw,price_raw,url,text_raw
+"1793946908-1","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Moto Hallenplatz8406 Winterthur","8406 Winterthur","Mieten
+50 CHF","https://flatfox.ch/de/wohnung/auwiesenstrasse-19-8406-winterthur/86519820/","Mieten
+50 CHFMoto Hallenplatz8406 Winterthur"
+"1793946908-2","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","4 Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’800 CHF","https://flatfox.ch/de/wohnung/8400-winterthur/86519629/","PriorityMieten
+1’800 CHF4 Zimmer-Wohnung8400 Winterthur"
+"1793946908-3","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’653 CHFBefristet","https://flatfox.ch/de/wohnung/hornlistrasse-20-8400-winterthur/86519605/","PriorityMieten
+1’653 CHFBefristet3 Zimmer-Wohnung8400 Winterthur"
+"1793946908-4","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","14m² Büro8400 Winterthur","8400 Winterthur","Mieten
+802 CHF","https://flatfox.ch/de/wohnung/rudolfstrasse-19-8400-winterthur/86519531/","Mieten
+802 CHF14m² Büro8400 Winterthur"
+"1793946908-5","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’440 CHFBefristet","https://flatfox.ch/de/wohnung/8400-winterthur/86519511/","PriorityMieten
+1’440 CHFBefristet1 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-6","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+2’498 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-58-8406-winterthur/86517037/","Mieten
+2’498 CHF3 ½ Zimmer-Wohnung8406 Winterthur"
+"1793946908-7","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’100 CHF","https://flatfox.ch/de/wohnung/8400-winterthur/86519405/","PriorityMieten
+1’100 CHF1 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-8","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","35m² Büro8406 Winterthur","8406 Winterthur","Mieten
+160 CHF / m²","https://flatfox.ch/de/wohnung/schlachthofstrasse-19-8406-winterthur/86519364/","Mieten
+160 CHF / m²35m² Büro8406 Winterthur"
+"1793946908-9","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Tiefgarage8404 Winterthur","8404 Winterthur","Mieten
+Auf Anfrage","https://flatfox.ch/de/wohnung/einstellhalle-else-zublin-str-8404-winterthur/85810672/","Mieten
+Auf AnfrageTiefgarage8404 Winterthur"
+"1793946908-10","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+2’200 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-158-8406-winterthur/86518887/","Mieten
+2’200 CHF3 ½ Zimmer-Wohnung8406 Winterthur"
+"1793946908-11","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+2’200 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-158-8406-winterthur/86518886/","Mieten
+2’200 CHF3 Zimmer-Wohnung8406 Winterthur"
+"1793946908-12","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 ½ Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+1’770 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-158-8406-winterthur/86518885/","Mieten
+1’770 CHF1 ½ Zimmer-Wohnung8406 Winterthur"
+"1793946908-13","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+1’770 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-158-8406-winterthur/86518883/","Mieten
+1’770 CHF2 ½ Zimmer-Wohnung8406 Winterthur"
+"1793946908-14","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’560 CHF","https://flatfox.ch/de/wohnung/topferstrasse-10-8400-winterthur/86474102/","Mieten
+1’560 CHF1 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-15","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+2’162 CHF","https://flatfox.ch/de/wohnung/rychenbergstr-61-8400-winterthur/86507441/","Mieten
+2’162 CHF2 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-16","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 Zimmer-Attikawohnung8408 Winterthur","8408 Winterthur","Mieten
+2’690 CHF","https://flatfox.ch/de/wohnung/espenstr-73-8408-winterthur/86471654/","Mieten
+2’690 CHF3 Zimmer-Attikawohnung8408 Winterthur"
+"1793946908-17","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","49m² Atelier8400 Winterthur","8400 Winterthur","Mieten
+1’455 CHF","https://flatfox.ch/de/wohnung/robert-sulzer-gasse-4-8400-winterthur/86511673/","Mieten
+1’455 CHF49m² Atelier8400 Winterthur"
+"1793946908-18","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8483 Kollbrunn","8483 Kollbrunn","Mieten
+1’790 CHF","https://flatfox.ch/de/wohnung/kirchstrasse-9-8483-kollbrunn/86517340/","Mieten
+1’790 CHF3 ½ Zimmer-Wohnung8483 Kollbrunn"
+"1793946908-19","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Dachwohnung8315 Lindau","8315 Lindau","Kaufen
+1’320’000 CHF","https://flatfox.ch/de/wohnung/auf-anfrage-8315-lindau/86516685/","Kaufen
+1’320’000 CHF3 ½ Zimmer-Dachwohnung8315 Lindau"
+"1793946908-20","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8408 Winterthur","8408 Winterthur","Mieten
+899 CHFMöbliert","https://flatfox.ch/de/wohnung/wasserwiesenstrasse-8408-winterthur/86516319/","Mieten
+899 CHFMöbliertWG Zimmer8408 Winterthur"
+"1793946908-21","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","4 ½ Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+1’990 CHF","https://flatfox.ch/de/wohnung/schlosstalstrasse-30-8406-winterthur/86516247/","PriorityMieten
+1’990 CHF4 ½ Zimmer-Wohnung8406 Winterthur"
+"1793946908-22","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+377 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8400-winterthur/86516018/","Mieten
+377 CHFBefristetMöbliertWG Zimmer8400 Winterthur"
+"1793946908-23","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Möblierte Wohnung8408 Winterthur","8408 Winterthur","Mieten
+2’313 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8408-winterthur/86515880/","Mieten
+2’313 CHFBefristetMöbliert2 ½ Zimmer-Möblierte Wohnung8408 Winterthur"
+"1793946908-24","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+685 CHF","https://flatfox.ch/de/wohnung/neustadtgasse-25-8400-winterthur/86515338/","Mieten
+685 CHFWG Zimmer8400 Winterthur"
+"1793946908-25","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8404 Winterthur","8404 Winterthur","Mieten
+1’050 CHF","https://flatfox.ch/de/wohnung/unterwegli-8404-winterthur/86515124/","Mieten
+1’050 CHFWG Zimmer8404 Winterthur"
+"1793946908-26","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8406 Winterthur","8406 Winterthur","Mieten
+1’100 CHF","https://flatfox.ch/de/wohnung/auwiesenstrasse-8406-winterthur/86515117/","Mieten
+1’100 CHFWG Zimmer8406 Winterthur"
+"1793946908-27","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8406 Winterthur","8406 Winterthur","Mieten
+900 CHF","https://flatfox.ch/de/wohnung/schillerstrasse-8406-winterthur/86515116/","Mieten
+900 CHFWG Zimmer8406 Winterthur"
+"1793946908-28","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8406 Winterthur","8406 Winterthur","Mieten
+800 CHF","https://flatfox.ch/de/wohnung/schillerstrasse-8406-winterthur/86515115/","Mieten
+800 CHFWG Zimmer8406 Winterthur"
+"1793946908-29","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8406 Winterthur","8406 Winterthur","Mieten
+800 CHF","https://flatfox.ch/de/wohnung/schillerstrasse-8406-winterthur/86515113/","Mieten
+800 CHFWG Zimmer8406 Winterthur"
+"1793946908-30","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+550 CHF","https://flatfox.ch/de/wohnung/pflanzschulstrasse-6a-8400-winterthur/86514736/","Mieten
+550 CHFWG Zimmer8400 Winterthur"
+"1793946908-31","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","4 ½ Zimmer-Wohnung8404 Winterthur","8404 Winterthur","Mieten
+2’320 CHF","https://flatfox.ch/de/wohnung/romerstr-142-8404-winterthur/86514653/","Mieten
+2’320 CHF4 ½ Zimmer-Wohnung8404 Winterthur"
+"1793946908-32","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Dachwohnung8400 Winterthur","8400 Winterthur","Mieten
+2’510 CHF","https://flatfox.ch/de/wohnung/seuzacherstr-11b-8400-winterthur/86514651/","Mieten
+2’510 CHF3 ½ Zimmer-Dachwohnung8400 Winterthur"
+"1793946908-33","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Tiefgarage8400 Winterthur","8400 Winterthur","Mieten
+180 CHF","https://flatfox.ch/de/wohnung/turbinenstrasse-2-8400-winterthur/86514650/","Mieten
+180 CHFTiefgarage8400 Winterthur"
+"1793946908-34","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","6 ½ Zimmer-Haus8400 Winterthur","8400 Winterthur","Mieten
+6’370 CHF","https://flatfox.ch/de/wohnung/baumlistrasse-32-8400-winterthur/86513569/","Mieten
+6’370 CHF6 ½ Zimmer-Haus8400 Winterthur"
+"1793946908-35","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","15m² Gewerbe8400 Winterthur","8400 Winterthur","Mieten
+890 CHFMöbliert","https://flatfox.ch/de/wohnung/8400-winterthur/86512984/","Mieten
+890 CHFMöbliert15m² Gewerbe8400 Winterthur"
+"1793946908-36","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+Auf Anfrage","https://flatfox.ch/de/wohnung/schutzenstr-39-8400-winterthur/86511526/","Mieten
+Auf Anfrage3 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-37","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8405 Winterthur","8405 Winterthur","Mieten
+1’900 CHFMöbliert","https://flatfox.ch/de/wohnung/im-gruntal-7-8405-winterthur/86512804/","PriorityMieten
+1’900 CHFMöbliert2 ½ Zimmer-Wohnung8405 Winterthur"
+"1793946908-38","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+731 CHF","https://flatfox.ch/de/wohnung/friedenstrasse-6-8400-winterthur/86512531/","Mieten
+731 CHFWG Zimmer8400 Winterthur"
+"1793946908-39","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+890 CHF","https://flatfox.ch/de/wohnung/metzggasse-17-8400-winterthur/86512521/","Mieten
+890 CHFWG Zimmer8400 Winterthur"
+"1793946908-40","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","5m² Hobbyraum8408 Winterthur","8408 Winterthur","Mieten
+60 CHF","https://flatfox.ch/de/wohnung/weststr-135-8408-winterthur/86512456/","Mieten
+60 CHF5m² Hobbyraum8408 Winterthur"
+"1793946908-41","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’940 CHF","https://flatfox.ch/de/wohnung/seuzacherstr-11a-8400-winterthur/86512440/","Mieten
+1’940 CHF2 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-42","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Dachwohnung8400 Winterthur","8400 Winterthur","Mieten
+1’980 CHF","https://flatfox.ch/de/wohnung/seuzacherstr-9a-8400-winterthur/86512439/","Mieten
+1’980 CHF2 ½ Zimmer-Dachwohnung8400 Winterthur"
+"1793946908-43","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Tiefgarage8404 Winterthur","8404 Winterthur","Mieten
+205 CHF","https://flatfox.ch/de/wohnung/else-zublin-str73-79-ep-8404-winterthur/86512416/","Mieten
+205 CHFTiefgarage8404 Winterthur"
+"1793946908-44","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8404 Winterthur","8404 Winterthur","Mieten
+835 CHF","https://flatfox.ch/de/wohnung/friedheimstrasse-29-8404-winterthur/86512265/","Mieten
+835 CHFWG Zimmer8404 Winterthur"
+"1793946908-45","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+578 CHFBefristet","https://flatfox.ch/de/wohnung/technikumstrasse-36-8400-winterthur/86511813/","Mieten
+578 CHFBefristetWG Zimmer8400 Winterthur"
+"1793946908-46","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","5 ½ Zimmer-Möblierte Wohnung8404 Stadel (Winterthur)","8404 Stadel (Winterthur)","Mieten
+2’938 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8404-stadel-winterthur/86511511/","Mieten
+2’938 CHFBefristetMöbliert5 ½ Zimmer-Möblierte Wohnung8404 Stadel (Winterthur)"
+"1793946908-47","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+826 CHF","https://flatfox.ch/de/wohnung/marktgasse-12-8400-winterthur/86511493/","Mieten
+826 CHFWG Zimmer8400 Winterthur"
+"1793946908-48","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+2’880 CHF","https://flatfox.ch/de/wohnung/museumstrasse-18-8400-winterthur/86511444/","PriorityMieten
+2’880 CHF3 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-49","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Tiefgarage8400 Winterthur","8400 Winterthur","Mieten
+160 CHF","https://flatfox.ch/de/wohnung/tiefgarage-kranbahn-ii-zag-8400-winterthur/86511381/","Mieten
+160 CHFTiefgarage8400 Winterthur"
+"1793946908-50","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+860 CHF","https://flatfox.ch/de/wohnung/malzstrasse-5-8400-winterthur/86510857/","Mieten
+860 CHFWG Zimmer8400 Winterthur"
+"1793946908-51","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8310 grafstal","8310 grafstal","Mieten
+850 CHFMöbliert","https://flatfox.ch/de/wohnung/8310-grafstal/86509384/","Mieten
+850 CHFMöbliertWG Zimmer8310 grafstal"
+"1793946908-52","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+1’810 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-135-8406-winterthur/86509380/","PriorityMieten
+1’810 CHF2 ½ Zimmer-Wohnung8406 Winterthur"
+"1793946908-53","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+1’060 CHF","https://flatfox.ch/de/wohnung/8400-winterthur/86509288/","Mieten
+1’060 CHFWG Zimmer8400 Winterthur"
+"1793946908-54","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+583 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/technikumstrasse-36-8400-winterthur/86509175/","Mieten
+583 CHFBefristetMöbliertWG Zimmer8400 Winterthur"
+"1793946908-55","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8486 Rikon im Tösstal","8486 Rikon im Tösstal","Mieten
+1’800 CHF","https://flatfox.ch/de/wohnung/spiegelstrasse-4-8486-rikon-im-tosstal/86509076/","PriorityMieten
+1’800 CHF2 ½ Zimmer-Wohnung8486 Rikon im Tösstal"
+"1793946908-56","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’420 CHF","https://flatfox.ch/de/wohnung/8400-winterthur/86508996/","PriorityMieten
+1’420 CHF1 Zimmer-Wohnung8400 Winterthur"
+"1793946908-57","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Parkplatz8400 Winterthur","8400 Winterthur","Mieten
+65 CHF","https://flatfox.ch/de/wohnung/8400-winterthur/86508845/","Mieten
+65 CHFParkplatz8400 Winterthur"
+"1793946908-58","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8406 Winterthur","8406 Winterthur","Mieten
+1’647 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-145-8406-winterthur/86508636/","Mieten
+1’647 CHF2 ½ Zimmer-Wohnung8406 Winterthur"
+"1793946908-59","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 Zimmer-Wohnung8404 Winterthur","8404 Winterthur","Mieten
+1’955 CHF","https://flatfox.ch/de/wohnung/sonnenblickstr-19-8404-winterthur/86508422/","Mieten
+1’955 CHF3 Zimmer-Wohnung8404 Winterthur"
+"1793946908-60","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Loft8409 Winterthur","8409 Winterthur","Mieten
+1’830 CHF","https://flatfox.ch/de/wohnung/im-oberen-gern-42-8409-winterthur/86463973/","Mieten
+1’830 CHFLoft8409 Winterthur"
+"1793946908-61","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’490 CHF","https://flatfox.ch/de/wohnung/schaffhauserstrasse-6-8400-winterthur/86507560/","Mieten
+1’490 CHF1 Zimmer-Wohnung8400 Winterthur"
+"1793946908-62","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 Zimmer-Wohnung8404 Winterthur","8404 Winterthur","Mieten
+1’500 CHF","https://flatfox.ch/de/wohnung/ruediweg-5-8404-winterthur/86396171/","Mieten
+1’500 CHF3 Zimmer-Wohnung8404 Winterthur"
+"1793946908-63","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8404 Winterthur","8404 Winterthur","Mieten
+1’830 CHF","https://flatfox.ch/de/wohnung/sulzerallee-61-8404-winterthur/86507079/","Mieten
+1’830 CHF2 ½ Zimmer-Wohnung8404 Winterthur"
+"1793946908-64","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’515 CHF","https://flatfox.ch/de/wohnung/gutstr-11-8400-winterthur/86507069/","Mieten
+1’515 CHF1 Zimmer-Wohnung8400 Winterthur"
+"1793946908-65","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8405 Winterthur","8405 Winterthur","Mieten
+1’320 CHF","https://flatfox.ch/de/wohnung/oberseenerstrasse-84-8405-winterthur/86506881/","Mieten
+1’320 CHFWG Zimmer8405 Winterthur"
+"1793946908-66","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’810 CHF","https://flatfox.ch/de/wohnung/magazingasse-6-8400-winterthur/86505850/","Mieten
+1’810 CHF2 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-67","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+627 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/burglistrasse-21-8400-winterthur/86505369/","Mieten
+627 CHFBefristetMöbliertWG Zimmer8400 Winterthur"
+"1793946908-68","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8404 Winterthur","8404 Winterthur","Mieten
+2’500 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8404-winterthur/86504235/","PriorityMieten
+2’500 CHFBefristetMöbliert3 ½ Zimmer-Wohnung8404 Winterthur"
+"1793946908-69","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+625 CHF","https://flatfox.ch/de/wohnung/technikumstrasse-36-8400-winterthur/86504157/","Mieten
+625 CHFWG Zimmer8400 Winterthur"
+"1793946908-70","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","4 ½ Zimmer-Wohnung8482 Sennhof","8482 Sennhof","Mieten
+2’780 CHF","https://flatfox.ch/de/wohnung/tosstalstrasse-375a-8482-sennhof/86505779/","PriorityMieten
+2’780 CHF4 ½ Zimmer-Wohnung8482 Sennhof"
+"1793946908-71","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+2’950 CHF","https://flatfox.ch/de/wohnung/buelrainstrasse-35-8400-winterthur/86504062/","Mieten
+2’950 CHF3 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-72","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8404 Winterthur","8404 Winterthur","Mieten
+850 CHFMöbliert","https://flatfox.ch/de/wohnung/talackerstrasse-101-8404-winterthur/86503976/","Mieten
+850 CHFMöbliertWG Zimmer8404 Winterthur"
+"1793946908-73","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8542 Wiesendangen","8542 Wiesendangen","Mieten
+1’000 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/leingrueblerstrasse-8-10-8542-wiesendangen/86503701/","Mieten
+1’000 CHFBefristetMöbliertWG Zimmer8542 Wiesendangen"
+"1793946908-74","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","113m² Ladenfläche8400 Winterthur","8400 Winterthur","Mieten
+1’720 CHF","https://flatfox.ch/de/wohnung/auf-anfrage-8400-winterthur/86503663/","Mieten
+1’720 CHF113m² Ladenfläche8400 Winterthur"
+"1793946908-75","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Wohnung8409 Winterthur","8409 Winterthur","Mieten
+1’750 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/im-oberen-gern-81-8409-winterthur/86503337/","PriorityMieten
+1’750 CHFBefristetMöbliert2 ½ Zimmer-Wohnung8409 Winterthur"
+"1793946908-76","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8408 Winterthur","8408 Winterthur","Mieten
+2’360 CHF","https://flatfox.ch/de/wohnung/wulflingerstrasse-151c-8408-winterthur/86502428/","Mieten
+2’360 CHF3 ½ Zimmer-Wohnung8408 Winterthur"
+"1793946908-77","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8408 Winterthur","8408 Winterthur","Mieten
+2’300 CHF","https://flatfox.ch/de/wohnung/wulflingerstrasse-151b-8408-winterthur/86502335/","Mieten
+2’300 CHF3 ½ Zimmer-Wohnung8408 Winterthur"
+"1793946908-78","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 Zimmer-Wohnung8483 Kollbrunn","8483 Kollbrunn","Mieten
+1’350 CHFMöbliert","https://flatfox.ch/de/wohnung/kirchstrasse-5-8483-kollbrunn/86503045/","PriorityMieten
+1’350 CHFMöbliert2 Zimmer-Wohnung8483 Kollbrunn"
+"1793946908-79","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’809 CHF","https://flatfox.ch/de/wohnung/warstrasse-26-8400-winterthur/86502721/","PriorityMieten
+1’809 CHF2 Zimmer-Wohnung8400 Winterthur"
+"1793946908-80","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Moto Aussenplatz8406 Winterthur","8406 Winterthur","Mieten
+110 CHF","https://flatfox.ch/de/wohnung/neumuhlestrasse-11-27-tg-8406-winterthur/86408717/","Mieten
+110 CHFMoto Aussenplatz8406 Winterthur"
+"1793946908-81","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+1’650 CHF","https://flatfox.ch/de/wohnung/obergasse-8400-winterthur/86501861/","Mieten
+1’650 CHFWG Zimmer8400 Winterthur"
+"1793946908-82","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+1’550 CHF","https://flatfox.ch/de/wohnung/zurcherstrasse-8400-winterthur/86501837/","Mieten
+1’550 CHFWG Zimmer8400 Winterthur"
+"1793946908-83","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8406 Winterthur","8406 Winterthur","Mieten
+1’200 CHFMöbliert","https://flatfox.ch/de/wohnung/steigstrasse-16-8406-winterthur/86501402/","Mieten
+1’200 CHFMöbliertWG Zimmer8406 Winterthur"
+"1793946908-84","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Tiefgarage8404 Winterthur","8404 Winterthur","Mieten
+50 CHF","https://flatfox.ch/de/wohnung/sulzerallee-80-88-8404-winterthur/86406522/","Mieten
+50 CHFTiefgarage8404 Winterthur"
+"1793946908-85","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","5 ½ Zimmer-Wohnung8472 Seuzach","8472 Seuzach","Mieten
+2’750 CHF","https://flatfox.ch/de/wohnung/forrenbergstrasse-29-8472-seuzach/86500976/","PriorityMieten
+2’750 CHF5 ½ Zimmer-Wohnung8472 Seuzach"
+"1793946908-86","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Tiefgarage8472 seuzach","8472 seuzach","Mieten
+130 CHF","https://flatfox.ch/de/wohnung/welsikonerstrasse-10-8472-seuzach/86500707/","Mieten
+130 CHFTiefgarage8472 seuzach"
+"1793946908-87","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’350 CHF","https://flatfox.ch/de/wohnung/wulflingerstrasse-25-8400-winterthur/86500126/","Mieten
+1’350 CHF1 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-88","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8408 Winterthur","8408 Winterthur","Mieten
+2’550 CHF","https://flatfox.ch/de/wohnung/rebenweg-40-8408-winterthur/86496984/","Mieten
+2’550 CHF3 ½ Zimmer-Wohnung8408 Winterthur"
+"1793946908-89","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","4 ½ Zimmer-Haus8312 Winterberg ZH","8312 Winterberg ZH","Mieten
+2’870 CHF","https://flatfox.ch/de/wohnung/8312-winterberg-zh/86499281/","Mieten
+2’870 CHF4 ½ Zimmer-Haus8312 Winterberg ZH"
+"1793946908-90","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Attikawohnung8404 Winterthur","8404 Winterthur","Mieten
+2’710 CHF","https://flatfox.ch/de/wohnung/sulzerallee-65-8404-winterthur/86499247/","Mieten
+2’710 CHF2 ½ Zimmer-Attikawohnung8404 Winterthur"
+"1793946908-91","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","Hobbyraum8400 Winterthur","8400 Winterthur","Mieten
+130 CHF","https://flatfox.ch/de/wohnung/st-gallerstrasse-31-8400-winterthur/86498649/","Mieten
+130 CHFHobbyraum8400 Winterthur"
+"1793946908-92","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","4 Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+1’950 CHF","https://flatfox.ch/de/wohnung/tosstalstrasse-165-8400-winterthur/86498074/","PriorityMieten
+1’950 CHF4 Zimmer-Wohnung8400 Winterthur"
+"1793946908-93","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","4 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+2’780 CHF","https://flatfox.ch/de/wohnung/rychenbergstr-73-8400-winterthur/86473699/","Mieten
+2’780 CHF4 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-94","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","3 ½ Zimmer-Wohnung8400 Winterthur","8400 Winterthur","Mieten
+2’375 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/rudolfstrasse-13-8400-winterthur/86497178/","PriorityMieten
+2’375 CHFBefristetMöbliert3 ½ Zimmer-Wohnung8400 Winterthur"
+"1793946908-95","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","19m² Gewerbe8404 Winterthur","8404 Winterthur","Mieten
+200 CHF","https://flatfox.ch/de/wohnung/stadlerstrasse-115-8404-winterthur/86497174/","Mieten
+200 CHF19m² Gewerbe8404 Winterthur"
+"1793946908-96","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","2 ½ Zimmer-Möblierte Wohnung8404 Winterthur","8404 Winterthur","Mieten
+2’450 CHFBefristetMöbliert","https://flatfox.ch/de/wohnung/8404-winterthur/86496763/","Mieten
+2’450 CHFBefristetMöbliert2 ½ Zimmer-Möblierte Wohnung8404 Winterthur"
+"1793946908-97","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","1 ½ Zimmer-Wohnung8404 Oberwinterthur","8404 Oberwinterthur","Mieten
+1’650 CHF","https://flatfox.ch/de/wohnung/pfaffenwiesenweg-6-8404-oberwinterthur/86496355/","Mieten
+1’650 CHF1 ½ Zimmer-Wohnung8404 Oberwinterthur"
+"1793946908-98","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8408 Winterthur","8408 Winterthur","Mieten
+950 CHF","https://flatfox.ch/de/wohnung/8408-winterthur/86496021/","Mieten
+950 CHFWG Zimmer8408 Winterthur"
+"1793946908-99","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","5 ½ Zimmer-Haus8314 Kyburg","8314 Kyburg","Kaufen
+1’490’000 CHF","https://flatfox.ch/de/wohnung/billikon-40-8314-kyburg/86496020/","Kaufen
+1’490’000 CHF5 ½ Zimmer-Haus8314 Kyburg"
+"1793946908-100","https://flatfox.ch/de/search/?east=8.810073&north=47.552146&place_name=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&place_type=place&query=Winterthur%2C%20Kanton%20Z%C3%BCrich%2C%20Schweiz&south=47.438884&take=100&west=8.656655","WG Zimmer8400 Winterthur","8400 Winterthur","Mieten
+627 CHF","https://flatfox.ch/de/wohnung/burglistrasse-23-8400-winterthur/86495796/","Mieten
+627 CHFWG Zimmer8400 Winterthur"
